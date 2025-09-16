@@ -1,0 +1,8 @@
+{
+  "android": {
+    "package": "com.magicsrl.magicsrlexpoandroidesimmanager"
+  },
+  "ios": {
+    "bundleIdentifier": "com.magicsrl.magicsrlexpoandroidesimmanager"
+  }
+}
